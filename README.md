@@ -1,11 +1,13 @@
 # Certificates
 
-- [Master Software Testing+Jira+Agile on Live App-Be a TeamLead](https://www.udemy.com/certificate/UC-d36b9742-3072-4ed5-adca-d8b304f2adf6/) Udemy May 2020
-- [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/certificate/UC-V98Z5G8E/) Udemy August 2019
-- Certified Tester Foundation Level ISTQB October 2018
-- [ISTQB Foundation Level Certification (CTFL)](https://www.udemy.com/certificate/UC-WRNWM6PG/) Udemy October 2018
+- [Operations Analytics](https://www.coursera.org/account/accomplishments/verify/KYNPM29NRVJQ) - Coursera November 2015
+- [Customer Analytics](https://www.coursera.org/account/accomplishments/verify/2WUA4YF8DN6Q) - Coursera October 2015
+- [Business Metrics for Data-Driven Companies](https://www.coursera.org/account/accomplishments/certificate/ZH7R7BDJR4TR) - Coursera December 2015
 
-# Projects
+- [Specialist in Business analysis](https://www.coursera.org/account/accomplishments/verify/2WUA4YF8DN6Q) - Novosibirsk State Technical University (NSTU), 10.2012-06.2013
 
-- [Selenium_Java Repo](https://github.com/MariyaLcs/Selenium_Java) - Automation Test with Selenium WebDriver and Java
-- [Mocha test Repo](https://github.com/MariyaLcs/programming_fundamentals_005/blob/master/test/sugar.test.js) - Unit testing with Mocha test framework
+* Grow Your Business with Goldman Sachs 10,000 Women - Coursera October 2018
+* Learning How to Learn: Powerful mental tools to help you master tough subjects - Coursera May 2018
+* Макроэкономика (Macroeconomics) - Coursera May 2017
+* Work Smarter, Not Harder: Time Management for Personal & Professional Productivity - Coursera May 2016
+* Project Management: The Basics for Success - Coursera May 2016
